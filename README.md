@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chintapuneeth@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!AhmHpnb4W3K3mMo9Bw5fDog8hpgkWw?e=vj2Fov](https://1drv.ms/b/s!AhmHpnb4W3K3mMo9Bw5fDog8hpgkWw?e=vj2Fov)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bd-fwG5Nu1tWtHJDWaivi0Xg1qY-glxe/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
