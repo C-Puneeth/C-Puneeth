@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Puneeth Chinta</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **seaborn , scikit_learn**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 🤝 I’m looking for help with **Building advanced End to End Realworld Projects**
 
